@@ -1,0 +1,4 @@
+*.log
+
+# jätä alustava hakemisto ulkopuolelle versiohallinnan
+alustava/
